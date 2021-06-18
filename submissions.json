@@ -1,4 +1,22 @@
 {
+  "CF119794722": {
+    "contest_id": 1538,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1538/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Stone Game",
+    "problem_url": "https://codeforces.com/contest/1538/problem/A",
+    "submission_id": "CF119794722",
+    "submission_url": "https://codeforces.com/contest/1538/submission/119794722",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Jun/18/2021 15:51"
+  },
   "CF119795362": {
     "contest_id": 1538,
     "language": "GNU C++17 (64)",
