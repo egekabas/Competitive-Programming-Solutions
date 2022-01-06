@@ -1,4 +1,25 @@
 {
+  "CF141824259": {
+    "contest_id": 1621,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1621/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "New School",
+    "problem_url": "https://codeforces.com/contest/1621/problem/E",
+    "submission_id": "CF141824259",
+    "submission_url": "https://codeforces.com/contest/1621/submission/141824259",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*2300"
+    ],
+    "timestamp": "Jan/06/2022 16:45"
+  },
   "CF148122289": {
     "contest_id": 240,
     "language": "GNU C++17 (64)",
