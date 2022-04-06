@@ -1,4 +1,21 @@
 {
+  "CF152839676": {
+    "contest_id": 1205,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1205/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Almost All",
+    "problem_url": "https://codeforces.com/contest/1205/problem/D",
+    "submission_id": "CF152839676",
+    "submission_url": "https://codeforces.com/contest/1205/submission/152839676",
+    "tags": [
+      "constructive algorithms",
+      "trees",
+      "*2700"
+    ],
+    "timestamp": "Apr/06/2022 14:06"
+  },
   "CF152902994": {
     "contest_id": 1648,
     "language": "GNU C++17 (64)",
