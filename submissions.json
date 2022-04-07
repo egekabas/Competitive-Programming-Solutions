@@ -1,4 +1,22 @@
 {
+  "CF152902994": {
+    "contest_id": 1648,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1648/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Tyler and Strings",
+    "problem_url": "https://codeforces.com/contest/1648/problem/C",
+    "submission_id": "CF152902994",
+    "submission_url": "https://codeforces.com/contest/1648/submission/152902994",
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "implementation",
+      "*1900"
+    ],
+    "timestamp": "Apr/07/2022 09:35"
+  },
   "CF153471223": {
     "contest_id": 1660,
     "language": "GNU C++17",
