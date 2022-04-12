@@ -12,15 +12,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-12 | [E - Even Split](https://codeforces.com/contest/1666/problem/E) | [GNU C++17 (64)](./codeforces/1666/E.cpp) |  | May/12/2022 12:11 | 
-11 | [F - Jee, You See?](https://codeforces.com/contest/1670/problem/F) | [GNU C++17 (64)](./codeforces/1670/F.cpp) | `bitmasks` `combinatorics` `dp` `*2400` | May/11/2022 16:06 | 
-10 | [F - Vicky's Delivery Service](https://codeforces.com/contest/1166/problem/F) | [GNU C++17 (64)](./codeforces/1166/F.cpp) | `data structures` `dsu` `graphs` `hashing` `*2400` | May/11/2022 13:52 | 
-9 | [E - Tokitsukaze and Beautiful Subsegments](https://codeforces.com/contest/1677/problem/E) | [GNU C++17](./codeforces/1677/E.cpp) | `data structures` `*2900` | May/10/2022 14:47 | 
-8 | [D - Subsequence](https://codeforces.com/contest/1580/problem/D) | [GNU C++17](./codeforces/1580/D.cpp) | `brute force` `divide and conquer` `dp` `greedy` `trees` `*2900` | May/10/2022 12:05 | 
-7 | [F - Cheap Robot](https://codeforces.com/contest/1253/problem/F) | [GNU C++17](./codeforces/1253/F.cpp) | `binary search` `dsu` `graphs` `shortest paths` `trees` `*2500` | May/09/2022 17:45 | 
-6 | [F - Teleporters](https://codeforces.com/contest/1661/problem/F) | [GNU C++17](./codeforces/1661/F.cpp) | `binary search` `greedy` `*2600` | Apr/21/2022 12:52 | 
-5 | [F - Fancy Stack](https://codeforces.com/contest/1666/problem/F) | [GNU C++17](./codeforces/1666/F.cpp) | `combinatorics` `dp` `implementation` `*2200` | Apr/20/2022 14:19 | 
-4 | [J - Job Lookup](https://codeforces.com/contest/1666/problem/J) | [GNU C++17](./codeforces/1666/J.cpp) | `constructive algorithms` `dp` `shortest paths` `trees` `*2100` | Apr/19/2022 12:26 | 
-3 | [I - Interactive Treasure Hunt](https://codeforces.com/contest/1666/problem/I) | [GNU C++17](./codeforces/1666/I.cpp) | `brute force` `constructive algorithms` `geometry` `interactive` `math` `*2200` | Apr/18/2022 14:15 | 
-2 | [E - AND-MEX Walk](https://codeforces.com/contest/1659/problem/E) | [GNU C++17](./codeforces/1659/E.cpp) | `bitmasks` `brute force` `constructive algorithms` `dfs and similar` `dsu` `graphs` `*2200` | Apr/18/2022 12:47 | 
-1 | [C - Get an Even String](https://codeforces.com/contest/1660/problem/C) | [GNU C++17](./codeforces/1660/C.cpp) | `dp` `greedy` `strings` `*1300` | Apr/12/2022 18:23 | 
+13 | [E - Even Split](https://codeforces.com/contest/1666/problem/E) | [GNU C++17 (64)](./codeforces/1666/E.cpp) |  | May/12/2022 12:11 | 
+12 | [F - Jee, You See?](https://codeforces.com/contest/1670/problem/F) | [GNU C++17 (64)](./codeforces/1670/F.cpp) | `bitmasks` `combinatorics` `dp` `*2400` | May/11/2022 16:06 | 
+11 | [F - Vicky's Delivery Service](https://codeforces.com/contest/1166/problem/F) | [GNU C++17 (64)](./codeforces/1166/F.cpp) | `data structures` `dsu` `graphs` `hashing` `*2400` | May/11/2022 13:52 | 
+10 | [E - Tokitsukaze and Beautiful Subsegments](https://codeforces.com/contest/1677/problem/E) | [GNU C++17](./codeforces/1677/E.cpp) | `data structures` `*2900` | May/10/2022 14:47 | 
+9 | [D - Subsequence](https://codeforces.com/contest/1580/problem/D) | [GNU C++17](./codeforces/1580/D.cpp) | `brute force` `divide and conquer` `dp` `greedy` `trees` `*2900` | May/10/2022 12:05 | 
+8 | [F - Cheap Robot](https://codeforces.com/contest/1253/problem/F) | [GNU C++17](./codeforces/1253/F.cpp) | `binary search` `dsu` `graphs` `shortest paths` `trees` `*2500` | May/09/2022 17:45 | 
+7 | [F - Teleporters](https://codeforces.com/contest/1661/problem/F) | [GNU C++17](./codeforces/1661/F.cpp) | `binary search` `greedy` `*2600` | Apr/21/2022 12:52 | 
+6 | [F - Fancy Stack](https://codeforces.com/contest/1666/problem/F) | [GNU C++17](./codeforces/1666/F.cpp) | `combinatorics` `dp` `implementation` `*2200` | Apr/20/2022 14:19 | 
+5 | [J - Job Lookup](https://codeforces.com/contest/1666/problem/J) | [GNU C++17](./codeforces/1666/J.cpp) | `constructive algorithms` `dp` `shortest paths` `trees` `*2100` | Apr/19/2022 12:26 | 
+4 | [I - Interactive Treasure Hunt](https://codeforces.com/contest/1666/problem/I) | [GNU C++17](./codeforces/1666/I.cpp) | `brute force` `constructive algorithms` `geometry` `interactive` `math` `*2200` | Apr/18/2022 14:15 | 
+3 | [E - AND-MEX Walk](https://codeforces.com/contest/1659/problem/E) | [GNU C++17](./codeforces/1659/E.cpp) | `bitmasks` `brute force` `constructive algorithms` `dfs and similar` `dsu` `graphs` `*2200` | Apr/18/2022 12:47 | 
+2 | [C - Get an Even String](https://codeforces.com/contest/1660/problem/C) | [GNU C++17](./codeforces/1660/C.cpp) | `dp` `greedy` `strings` `*1300` | Apr/12/2022 18:23 | 
+1 | [B - Vlad and Candies](https://codeforces.com/contest/1660/problem/B) | [GNU C++17](./codeforces/1660/B.cpp) | `math` `*800` | Apr/12/2022 18:07 | 
