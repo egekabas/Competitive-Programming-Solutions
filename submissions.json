@@ -1,4 +1,23 @@
 {
+  "CF154057093": {
+    "contest_id": 1666,
+    "language": "GNU C++17",
+    "path": "codeforces/1666/J.cpp",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Job Lookup",
+    "problem_url": "https://codeforces.com/contest/1666/problem/J",
+    "submission_id": "CF154057093",
+    "submission_url": "https://codeforces.com/contest/1666/submission/154057093",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "shortest paths",
+      "trees",
+      "*2100"
+    ],
+    "timestamp": "Apr/19/2022 12:26"
+  },
   "CF154190824": {
     "contest_id": 1666,
     "language": "GNU C++17",
