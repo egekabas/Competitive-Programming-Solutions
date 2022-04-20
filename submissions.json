@@ -1,4 +1,22 @@
 {
+  "CF154190824": {
+    "contest_id": 1666,
+    "language": "GNU C++17",
+    "path": "codeforces/1666/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Fancy Stack",
+    "problem_url": "https://codeforces.com/contest/1666/problem/F",
+    "submission_id": "CF154190824",
+    "submission_url": "https://codeforces.com/contest/1666/submission/154190824",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "implementation",
+      "*2200"
+    ],
+    "timestamp": "Apr/20/2022 14:19"
+  },
   "CF154263616": {
     "contest_id": 1661,
     "language": "GNU C++17",
