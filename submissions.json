@@ -1,4 +1,22 @@
 {
+  "CF156833823": {
+    "contest_id": 1670,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1670/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Jee, You See?",
+    "problem_url": "https://codeforces.com/contest/1670/problem/F",
+    "submission_id": "CF156833823",
+    "submission_url": "https://codeforces.com/contest/1670/submission/156833823",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dp",
+      "*2400"
+    ],
+    "timestamp": "May/11/2022 16:06"
+  },
   "CF156901962": {
     "contest_id": 1666,
     "language": "GNU C++17 (64)",
